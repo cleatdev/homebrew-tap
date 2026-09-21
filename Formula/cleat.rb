@@ -1,8 +1,8 @@
 class Cleat < Formula
   desc "Docker sandbox for AI coding agents"
   homepage "https://cleat.sh"
-  url "https://github.com/cleatdev/cleat/releases/download/v1.4.3/cleat-1.4.3.tar.gz"
-  sha256 "6fa59d26be6f322240a8bd2ec216bf98ae402b1f69e7eafe93db7faff21d757d"
+  url "https://github.com/cleatdev/cleat/releases/download/v1.5.0/cleat-1.5.0.tar.gz"
+  sha256 "fa1b8de33bd073cc6163b44079cb1887152f1ff5b332afd955cdfe1c205c41e0"
   license "MIT"
 
   def install
